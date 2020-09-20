@@ -9,7 +9,7 @@ function IndexPage() {
     <Layout>
     
       <SEO
-        title="GatsbyJS Tailwind Starter"
+        title="DROPNU"
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
       />
 
