@@ -73,7 +73,7 @@ function Layout({ children }) {
                   <p className="uppercase tracking-loose w-full">EYE DROP SOLUTIONS</p>
                   <h1 className="my-4 text-5xl font-bold leading-tight">DROPNU</h1>
                   <p className="leading-normal text-2xl mb-8">
-                    {data.site.siteMetadata.title} -  The Dropnu tool is an affordable eyedropper add on tool that decreases the volume of oversized drops to reduce the waste and cost of eye medications.  <a className="text-gray-800 font-bold underline" href="https://tailwindcss.com/"></a> 
+                    {data.site.siteMetadata.title} - DropNu is an affordable add-on tool that decreases the volume of oversized drops in eyedroppers to reduce the waste of eye medications and save costs.  <a className="text-gray-800 font-bold underline" href="https://tailwindcss.com/"></a> 
                     {' '}  <a className="text-gray-800 font-bold underline" href="https://www.gatsbyjs.org/"></a>
                   </p>
 
@@ -118,7 +118,10 @@ function Layout({ children }) {
                 <div className="flex flex-wrap">
                   <div className="w-5/6 sm:w-1/2 p-6">
                     <h3 className="text-3xl text-gray-800 font-bold leading-none mb-3">Increases bottle life span</h3>
-                    <p className="text-gray-600 mb-8">Medicated eye drops squeeze out around 40- 60 microliters per dosage, while a human eye can only take in 8-10 microliters. Dropnu tip reduces the ammount of liquid that comes out of the bottle and reusults in less wastage and harmful sideffects due to over saturating the eyes with medication, such as redness, itchiness, and swelling.<br /><br />
+                    <p className="text-gray-600 mb-8">Eyedropper medications squeeze out around 40 - 60 microliters per drop on to the human eye. In reality, the human eye
+    can only take in 8-10 microliters. DropNu reduces the amount of liquid that is dispensed from the eyedropper, resulting in less medication wastage and healthier eyes,
+    preventing redness, itchiness, and swelling as a result of oversaturation in the eye.
+   <br /><br />
                     
                     <a className="text-orange-500 underline" href="https://undraw.co/"></a></p>
                     
@@ -220,9 +223,9 @@ function Layout({ children }) {
                   </div>
                   <div className="w-full sm:w-1/2 p-6 mt-6">
                     <div className="align-middle">
-                      <h3 className="text-3xl text-gray-800 font-bold leading-none mb-3">Cost Efficient</h3>
-                      <p className="text-gray-600 mb-8">The cost of glucoma medication can cost around 10 dollars per drop, Dropnu reduces to about 60% by reducing wastage. The refined tip size allows your eye to recieve the correct ammount of microliters of dosage, without breaking the bank.<br /><br />
-                      Images from: <a className="text-orange-500 underline" href="https://undraw.co/">undraw.co</a></p>
+                      <h3 className="text-3xl text-gray-800 font-bold leading-none mb-3">Cost Efficiency</h3>
+                      <p className="text-gray-600 mb-8">The cost of glaucoma medications can be up to 10 dollars per drop. Dropnu reduces the drop size to about 60% through its smaller tip. DropNu thereby allows the eye to receive the necessary dosage of eye medication, all while saving costs and reducing wastage.<br /><br />
+                      </p>
                     </div>
                   </div>
 
@@ -397,7 +400,7 @@ function Layout({ children }) {
                 <div className="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
               </div>
 
-              <h3 className="my-4 text-3xl leading-tight">Read more about GatsbyJS</h3>	
+              <h3 className="my-4 text-3xl leading-tight">Smaller drops, healthier eyes</h3>	
 
               <form action={data.site.siteMetadata.blog}>
                 <button type="submit"
