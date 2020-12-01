@@ -221,7 +221,8 @@ function Layout({ children }) {
                   <div className="w-full sm:w-1/2 p-6 mt-6">
                     <div className="align-middle">
                       <h3 className="text-3xl text-gray-800 font-bold leading-none mb-3">Cost Efficient</h3>
-                      <p className="text-gray-600 mb-8">The cost of glucoma medication can cost around 10 dollars per drop, Dropnu reduces to about 60% by reducing wastage. The refined tip size allows your eye to recieve the correct ammount of microliters of dosage, without breaking the bank.<br /><br />
+                      <p className="text-gray-600 mb-8">The cost of glaucoma medication can cost around 10 dollars per drop, which Dropnu reduces to about 60%. The refined tip size allows your eye to recieve the correct ammount of microliters of dosage, without breaking the bank. The result
+    is healthier eyes and reduced medication wastage. <br /><br />
                       Images from: <a className="text-orange-500 underline" href="https://undraw.co/">undraw.co</a></p>
                     </div>
                   </div>
